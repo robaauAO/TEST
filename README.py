@@ -1,3 +1,6 @@
 dette er en test
-1234
+
+array [1,2,3,4]
+print array[2]
 final
+
